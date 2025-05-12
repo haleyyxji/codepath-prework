@@ -18,6 +18,10 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
+I had trouble running my rpject locally, so I couldn't use Loom. I uploaded a Google Drive link instead.
+
+https://drive.google.com/file/d/1V4aDeFbsc7YUt-JRDMHxuUqcQNRz8587/view?usp=sharing
+
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
