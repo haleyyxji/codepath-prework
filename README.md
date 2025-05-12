@@ -18,7 +18,7 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-I had trouble running my rpject locally, so I couldn't use Loom. I uploaded a Google Drive link instead.
+I had trouble running my project locally, so I couldn't use Loom. I uploaded a Google Drive link instead.
 
 https://drive.google.com/file/d/1V4aDeFbsc7YUt-JRDMHxuUqcQNRz8587/view?usp=sharing
 
